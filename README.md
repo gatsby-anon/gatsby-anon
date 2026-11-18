@@ -21,7 +21,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=15&duration=2600&pause=1000&color=EAB308&background=0B0C1000&center=true&vCenter=true&width=700&lines=SYS.IDENT%3A+LUCAS+MAIA+%2F%2F+ENGENHARIA+DE+SOFTWARE+(UFC);BACKEND+ENGINEERING+%26+FILAS+ASS%C3%8DNCRONAS+(CELERY+%2B+VALKEY);POSTGRESQL+CONCURRENCY+%26+LOCKS+(FOR+UPDATE+SKIP+LOCKED);AUDIOVISUAL+PIPELINES+(FFMPEG+%2B+FASTER-WHISPER);PESQUISA+PUBLICADA+NO+ENEGEP+2025+(MODELAGEM+ESTAT%C3%8DSTICA+EM+R);" alt="CRT Terminal Stream" />
 </a>
 
-<!-- Mechanical Taktile Badges (Tokens: surface-hull #1C1F26, text-ivory #F3F1E7, acentos de ação) -->
+<!-- Mechanical Taktile Badges -->
 <p align="center">
   <a href="https://www.linkedin.com/in/lucasolimaia/">
     <img src="https://img.shields.io/badge/LINKEDIN-lucasolimaia-1D4ED8?style=for-the-badge&logo=linkedin&logoColor=F3F1E7&labelColor=1C1F26" alt="LinkedIn" />
@@ -36,33 +36,22 @@
 
 </div>
 
-```text
-┌── [PANEL 01] ─────────────────────────────────────────────────── [SYS.DIAGNOSTIC // OVERVIEW] ──┐
-```
+---
 
-### 👤 Perfil Profissional
+### `01 // PERFIL PROFISSIONAL`
 
 Graduando em **Engenharia de Software** pela **Universidade Federal do Ceará (UFC — Campus Russas)** com vivência prática no desenvolvimento de sistemas backend, APIs RESTful e arquiteturas distribuídas baseadas em filas assíncronas.
 
 Abordagem focada em engenharia de confiabilidade, concorrência atômica em nível de banco de dados, governança de registros civis/biométricos e construção de pipelines autônomos de processamento multimídia. Pesquisador com artigo científico publicado no **ENEGEP 2025** em tratamento de dados e modelagem estatística com Linguagem R.
 
-```text
-[SPECIFICATIONS]
-• Formação: Bacharelado em Engenharia de Software — UFC Russas (2021 – 2027)
-• Atuação:  Engenharia de Backend, Sistemas Distribuídos e Bancos de Dados Relacionais
-• Idiomas:  Português (Nativo) | Inglês (Intermediário / Leitura Técnica B1–B2)
-• Status:   Disponível para contratação (Remoto nacional ou Híbrido/Presencial Ceará)
-```
+* **Formação Acadêmica:** Bacharelado em Engenharia de Software — UFC Russas (2021 – 2027)
+* **Áreas de Foco:** Engenharia de Backend, Sistemas Distribuídos e Bancos de Dados Relacionais
+* **Idiomas:** Português (Nativo) • Inglês (Intermediário / Leitura Técnica B1–B2)
+* **Disponibilidade:** Remoto nacional ou Híbrido/Presencial (Ceará)
 
-```text
-└── [END PANEL 01] ─────────────────────────────────────────────────────────────────────────────┘
-```
+---
 
-```text
-┌── [PANEL 02] ─────────────────────────────────────────────────── [HARDWARE // CONTROL MATRIX] ──┐
-```
-
-### 🎛️ Competências Técnicas & Tecnologias
+### `02 // COMPETÊNCIAS TÉCNICAS & ARSENAL`
 
 <div align="center">
 
@@ -85,20 +74,14 @@ Abordagem focada em engenharia de confiabilidade, concorrência atômica em nív
 </div>
 
 * **Engenharia de Backend & Mensageria:** Python 3.12+ (FastAPI, Pydantic v2, SQLAlchemy 2.0 asyncio, Alembic), Node.js, Express.js, Celery (arquitetura multi-filas), Valkey 8 / Redis, JWT / RBAC, pytest, Postman/Insomnia.
-* **Bancos de Dados & Armazenamento:** PostgreSQL 16 (modelagem relacional, PL/pgSQL, concorrência com `FOR UPDATE SKIP LOCKED`), Object Storage MinIO compatível com AWS S3.
+* **Bancos de Dados & Armazenamento:** PostgreSQL 16 (modelagem relacional, PL/pgSQL, concorrência segura com `FOR UPDATE SKIP LOCKED`), Object Storage MinIO compatível com AWS S3.
 * **Engenharia Multimídia & IA:** FFmpeg e FFprobe (filtros complexos, layout 9:16, legendagem dinâmica ASS via libass), faster-whisper (CTranslate2), PySceneDetect.
 * **Frontend Reativo & Análise:** Next.js 16 (App Router), React 19, TypeScript, Tailwind CSS, Recharts, Linguagem R (análise estatística e cienciométrica).
 * **Infraestrutura & DevOps:** Docker, Docker Compose, uv (Astral), Git, GitHub.
 
-```text
-└── [END PANEL 02] ─────────────────────────────────────────────────────────────────────────────┘
-```
+---
 
-```text
-┌── [PANEL 03] ─────────────────────────────────────────────────── [EVENT LOGS // EXPERIENCE] ────┐
-```
-
-### 💼 Experiência Profissional
+### `03 // EXPERIÊNCIA PROFISSIONAL`
 
 #### 🔹 **Desenvolvedor Backend (Estágio)** — `EPRA UFC`
 *Fevereiro de 2026 – Presente | Russas, CE*
@@ -114,32 +97,26 @@ Abordagem focada em engenharia de confiabilidade, concorrência atômica em nív
 * Identificação e resolução de divergências e inconsistências cadastrais em registros civis, assegurando a confiabilidade e integridade das bases de dados.
 * Aplicação rigorosa de normas técnicas, governança de dados pessoais e procedimentos de segurança da informação.
 
-```text
-└── [END PANEL 03] ─────────────────────────────────────────────────────────────────────────────┘
-```
+---
 
-```text
-┌── [PANEL 04] ─────────────────────────────────────────────────── [BOUNTY TARGETS // PROJECTS] ─┐
-```
-
-### 🚀 Projetos de Engenharia em Destaque
+### `04 // PROJETOS DE ENGENHARIA EM DESTAQUE`
 
 <table width="100%">
   <thead>
     <tr>
-      <th width="50%" align="left" style="background-color: #1C1F26; border: 1px solid #374151;">
-        <code style="color: #EAB308;">[UNIT // 01] STATUS: ACTIVE</code><br/>
+      <th width="50%" align="left">
+        <code>TARGET 01 // SISTEMA ASSÍNCRONO</code><br/>
         <h3>🎞️ Fábrica de Reels</h3>
       </th>
-      <th width="50%" align="left" style="background-color: #1C1F26; border: 1px solid #374151;">
-        <code style="color: #22C55E;">[UNIT // 02] STATUS: PRODUCTION</code><br/>
+      <th width="50%" align="left">
+        <code>TARGET 02 // REALTIME & CONCORRÊNCIA</code><br/>
         <h3>🏛️ Painel de Atendimento Municipal</h3>
       </th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td valign="top" style="background-color: #13221E; border: 1px solid #374151;">
+      <td valign="top">
         <p><b>Pipeline Autônomo para Processamento Audiovisual Vertical (9:16)</b></p>
         <p>Monorepo de microsserviços para ingestão, transcrição fonética, detecção de cortes, estilização paramétrica e renderização distribuída:</p>
         <ul>
@@ -153,7 +130,7 @@ Abordagem focada em engenharia de confiabilidade, concorrência atômica em nív
           <code>Python 3.12</code> • <code>FastAPI</code> • <code>Celery</code> • <code>Valkey</code> • <code>FFmpeg</code> • <code>MinIO</code> • <code>Docker</code>
         </p>
       </td>
-      <td valign="top" style="background-color: #13221E; border: 1px solid #374151;">
+      <td valign="top">
         <p><b>Sistema Realtime de Gestão de Filas, Acolhimento e Chamadas Públicas</b></p>
         <p>Plataforma para salas de espera e atendimento presencial em secretarias municipais (Tributos, Saúde, Assistência Social e Emissão de Documentos):</p>
         <ul>
@@ -170,29 +147,17 @@ Abordagem focada em engenharia de confiabilidade, concorrência atômica em nív
   </tbody>
 </table>
 
-```text
-└── [END PANEL 04] ─────────────────────────────────────────────────────────────────────────────┘
-```
+---
 
-```text
-┌── [PANEL 05] ─────────────────────────────────────────────────── [ACADEMIC TELEMETRY // R&D] ──┐
-```
-
-### 📄 Produção Científica
+### `05 // PRODUÇÃO CIENTÍFICA`
 
 * **Artigo Publicado no ENEGEP 2025 (Encontro Nacional de Engenharia de Produção):**
   * Concepção e aplicação de modelagem estatística e análise bibliométrica automatizada utilizando a **Linguagem R**.
   * Extração, saneamento e garantia de qualidade de bases de dados científicos e documentação técnica.
 
-```text
-└── [END PANEL 05] ─────────────────────────────────────────────────────────────────────────────┘
-```
+---
 
-```text
-┌── [PANEL 06] ─────────────────────────────────────────────────── [SONAR & METRICS TELEMETRY] ──┐
-```
-
-### 📊 Telemetria do GitHub
+### `06 // TELEMETRIA DO GITHUB`
 
 <div align="center">
 
@@ -206,15 +171,9 @@ Abordagem focada em engenharia de confiabilidade, concorrência atômica em nív
 
 </div>
 
-```text
-└── [END PANEL 06] ─────────────────────────────────────────────────────────────────────────────┘
-```
+---
 
-```text
-┌── [PANEL 07] ─────────────────────────────────────────────────── [SIGNAL TRANSMISSION // COMMS] ─┐
-```
-
-### 📬 Comunicação & Contato
+### `07 // CANAIS DE COMUNICAÇÃO`
 
 <div align="center">
 
