@@ -83,9 +83,9 @@ Abordagem focada em engenharia de confiabilidade, concorrência atômica em nív
 
 ### `03 // EXPERIÊNCIA PROFISSIONAL`
 
-#### 🔹 **Desenvolvedor Backend (Estágio)** — `EPRA UFC`
+#### 🔹 **Desenvolvedor Backend (Estágio)** — `EPRA UFC` • [`[Repositório Público]`](https://github.com/gatsby-anon/portal_epra)
 *Fevereiro de 2026 – Presente | Russas, CE*
-* Desenvolvimento da API RESTful em **Node.js** com **Express.js** para a plataforma web institucional de robótica e capacitação tecnológica.
+* Desenvolvimento da API RESTful em **Node.js** com **Express.js** para a plataforma web [Portal EPRA](https://github.com/gatsby-anon/portal_epra), hub oficial de robótica e capacitação tecnológica na UFC Russas.
 * Modelagem do banco de dados relacional **PostgreSQL** (driver `pg`), elaborando scripts DDL/DML, migrações e garantia de integridade referencial.
 * Implementação de controle de acesso baseado em papéis (**RBAC**) com **JWT** cobrindo três níveis hierárquicos (*Orientador*, *Aluno Interno*, *Aluno Externo*).
 * Criação de módulos CRUD completos para gerenciamento de cursos, envio de soluções para desafios e upload de arquivos via **Multer**.
@@ -149,11 +149,12 @@ Abordagem focada em engenharia de confiabilidade, concorrência atômica em nív
 
 ---
 
-### `05 // PRODUÇÃO CIENTÍFICA`
+### `05 // PRODUÇÃO CIENTÍFICA & REPOSITÓRIOS PÚBLICOS`
 
 * **Artigo Publicado no ENEGEP 2025 (Encontro Nacional de Engenharia de Produção):**
-  * Concepção e aplicação de modelagem estatística e análise bibliométrica automatizada utilizando a **Linguagem R**.
-  * Extração, saneamento e garantia de qualidade de bases de dados científicos e documentação técnica.
+  * 📦 **Repositório Público:** [`gatsby-anon/Bibliometric-Analysis-Pipeline-with-R-Bibliometrix`](https://github.com/gatsby-anon/Bibliometric-Analysis-Pipeline-with-R-Bibliometrix)
+  * Concepção e aplicação de pipeline analítico completo em **Linguagem R** com o ecossistema `Bibliometrix` para estudo cienciométrico sobre impactos de IAs generativas na educação em programação.
+  * Extração, saneamento, deduplicação e garantia de qualidade de bases bibliográficas com documentação técnica reproduzível.
 
 ---
 
@@ -187,15 +188,16 @@ Abordagem focada em engenharia de confiabilidade, concorrência atômica em nív
 
 <div align="center">
 
-```text
-┌──────────────────────────────────────────────────────────────────────────────────────────┐
-│                                                                                          │
-│                               Whatever happens, happens.                                 │
-│                                                                                          │
-│                                SEE YOU SPACE COWBOY...                                   │
-│                                                                                          │
-│ [TRANSMISSION TERMINATED]                              [SYS.REC // 2026 // END OF FILE]  │
-└──────────────────────────────────────────────────────────────────────────────────────────┘
-```
+<!-- Rodapé Visual Cinematográfico: Spike Spiegel / See You Space Cowboy -->
+<a href="https://github.com/gatsby-anon">
+  <img src="https://media.giphy.com/media/4ilFRqgbzbx4c/giphy.gif" width="460" alt="Spike Spiegel - Cowboy Bebop" style="border: 2px solid #1C1F26; box-shadow: 4px 4px 0px #DC2626;" />
+</a>
+
+<br/><br/>
+
+<p align="center">
+  <font color="#8C8881"><i>"Whatever happens, happens."</i></font><br/>
+  <font size="4" color="#F3F1E7"><b>SEE YOU SPACE COWBOY...</b></font>
+</p>
 
 </div>
