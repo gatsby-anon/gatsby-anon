@@ -163,8 +163,8 @@ Abordagem focada em engenharia de confiabilidade, concorrência atômica em nív
 <div align="center">
 
 <!-- Cards configurados com os tokens: bg surface-hull (#1C1F26), title accent-faye (#EAB308), icon accent-ed (#DC2626), text text-ivory (#F3F1E7) -->
-<img src="https://github-readme-stats.vercel.app/api?username=gatsby-anon&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1C1F26&title_color=EAB308&icon_color=DC2626&text_color=F3F1E7" height="155" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gatsby-anon&layout=compact&theme=tokyonight&hide_border=true&bg_color=1C1F26&title_color=EAB308&text_color=F3F1E7" height="155" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=gatsby-anon&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1C1F26&title_color=EAB308&icon_color=DC2626&text_color=F3F1E7&cache_seconds=1800" height="155" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gatsby-anon&layout=compact&theme=tokyonight&hide_border=true&bg_color=1C1F26&title_color=EAB308&text_color=F3F1E7&hide=TeX&cache_seconds=1800" height="155" alt="Top Languages" />
 
 <br/>
 
